@@ -1,0 +1,50 @@
+date,amount,category,description
+01-07-2024,150.00,Income,Consulting
+03-07-2024,25.00,Expense,Coffee Shop
+05-07-2024,75.50,Expense,Groceries
+07-07-2024,175.00,Expense,Car Maintenance
+10-07-2024,200.00,Expense,Utilities
+11-07-2024,220.00,Expense,Internet Bill
+14-07-2024,3000.00,Income,Investment Return
+15-07-2024,300.00,Expense,Rent
+17-07-2024,15.00,Expense,Public Transport
+18-07-2024,40.00,Expense,Gym Membership
+20-07-2024,125.65,Income,Salary
+21-07-2024,180.00,Expense,Home Supplies
+22-07-2024,50.00,Expense,Transportation
+23-07-2024,500.00,Savings,Retirement Fund
+26-07-2024,110.00,Income,Bonus
+29-07-2024,90.00,Expense,Pet Supplies
+30-07-2024,150.00,Expense,Entertainment
+02-08-2024,2000.00,Savings,Monthly Savings
+03-08-2024,60.00,Expense,Gas
+04-08-2024,120.00,Expense,Clothing
+06-08-2024,35.00,Expense,Healthcare
+07-08-2024,250.00,Expense,Concert Tickets
+08-08-2024,125.00,Income,Side Gig
+10-08-2024,95.00,Expense,Subscriptions
+11-08-2024,4000.00,Income,Stock Dividend
+12-08-2024,45.00,Expense,Eating Out
+14-08-2024,70.00,Expense,Haircut
+15-08-2024,200.00,Income,Freelance Project
+16-08-2024,25.00,Expense,Snacks
+18-08-2024,320.00,Expense,Hotel Stay
+19-08-2024,50000.00,Income,Salary
+20-08-2024,600.00,Expense,New Laptop
+22-08-2024,130.00,Income,Gift Card
+24-08-2024,45.00,Expense,Stationery
+25-08-2024,80.00,Expense,Books
+26-08-2024,210.00,Income,Tutoring
+28-08-2024,250.00,Savings,Emergency Fund
+29-08-2024,35.00,Expense,Parking Fees
+31-08-2024,100.00,Income,Gift
+01-09-2024,300.00,Expense,Medical Bill
+04-09-2024,250.00,Expense,Online Course
+08-09-2024,2800.00,Income,Contract Work
+12-09-2024,50.00,Expense,Mobile Plan
+15-09-2024,135.00,Income,Rebate
+19-09-2024,75.00,Expense,Theater Tickets
+22-09-2024,500.00,Savings,Vacation Fund
+25-09-2024,95.00,Expense,Gift
+28-09-2024,50.00,Expense,Office Supplies
+
